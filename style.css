@@ -81,7 +81,7 @@ body {
     display: none;
     padding: 10px;
     font-size: 14px;
-    color: #666;
+    color: var(--grayish-purple);
     overflow: hidden;
 }
 .faq-answer.show {
